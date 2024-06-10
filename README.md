@@ -52,6 +52,7 @@ Model Training
 
 Model Evaluation
 
-    Evaluation: Evaluating the trained models using performance metrics.
+    Evaluation: Evaluating the trained models using performance metrics achieving accuracy of 67%.
+    The hardest challenge was the correct classification of "Disgust" emotion because of class imbalance.
     Confusion Matrix: Plotting the confusion matrix to visualize model performance.
     Predictions: Making predictions using the trained models.
